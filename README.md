@@ -1,6 +1,6 @@
-#Device Registry Service
+# Device Registry Service
 
-##Usage 
+## Usage 
 
 All responses will have the form
 
